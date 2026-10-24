@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+worthy_bank.db
+.env
